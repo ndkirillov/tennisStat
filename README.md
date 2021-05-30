@@ -1,2 +1,2 @@
 # tennisStat (2020)
-2nd year project. Tennis Statistics.
+2nd course project. Tennis Statistics.
